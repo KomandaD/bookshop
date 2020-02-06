@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/bookshop/static/css/main.e3374fa6.chunk.css",
+    "main.js": "/bookshop/static/js/main.06cba7d8.chunk.js",
+    "main.js.map": "/bookshop/static/js/main.06cba7d8.chunk.js.map",
+    "runtime-main.js": "/bookshop/static/js/runtime-main.4c7e40e8.js",
+    "runtime-main.js.map": "/bookshop/static/js/runtime-main.4c7e40e8.js.map",
+    "static/js/2.011c3f64.chunk.js": "/bookshop/static/js/2.011c3f64.chunk.js",
+    "static/js/2.011c3f64.chunk.js.map": "/bookshop/static/js/2.011c3f64.chunk.js.map",
+    "index.html": "/bookshop/index.html",
+    "precache-manifest.c4e0e616d45cedbe34c5751ae12ee659.js": "/bookshop/precache-manifest.c4e0e616d45cedbe34c5751ae12ee659.js",
+    "service-worker.js": "/bookshop/service-worker.js",
+    "static/css/main.e3374fa6.chunk.css.map": "/bookshop/static/css/main.e3374fa6.chunk.css.map",
+    "static/js/2.011c3f64.chunk.js.LICENSE.txt": "/bookshop/static/js/2.011c3f64.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/bookshop/static/media/1.2cd2557c.jpg",
+    "static/media/10.jpg": "/bookshop/static/media/10.a35aa035.jpg",
+    "static/media/11.jpg": "/bookshop/static/media/11.8d779ad5.jpg",
+    "static/media/12.jpg": "/bookshop/static/media/12.d2b63f08.jpg",
+    "static/media/13.png": "/bookshop/static/media/13.4e8874c7.png",
+    "static/media/14.jpg": "/bookshop/static/media/14.db1312a9.jpg",
+    "static/media/15.jpg": "/bookshop/static/media/15.6c17b8e1.jpg",
+    "static/media/16.jpg": "/bookshop/static/media/16.e2cc24d9.jpg",
+    "static/media/17.jpg": "/bookshop/static/media/17.a8c151de.jpg",
+    "static/media/2.jpg": "/bookshop/static/media/2.5e3de3fd.jpg",
+    "static/media/3.jpg": "/bookshop/static/media/3.ce9ff2d9.jpg",
+    "static/media/4.jpg": "/bookshop/static/media/4.f3f83a51.jpg",
+    "static/media/5.jpg": "/bookshop/static/media/5.6ee3f170.jpg",
+    "static/media/6.jpg": "/bookshop/static/media/6.6ba99e5d.jpg",
+    "static/media/7.jpg": "/bookshop/static/media/7.933fb532.jpg",
+    "static/media/8.jpg": "/bookshop/static/media/8.d578758e.jpg",
+    "static/media/9.jpg": "/bookshop/static/media/9.99489a05.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c7e40e8.js",
+    "static/js/2.011c3f64.chunk.js",
+    "static/css/main.e3374fa6.chunk.css",
+    "static/js/main.06cba7d8.chunk.js"
+  ]
+}
